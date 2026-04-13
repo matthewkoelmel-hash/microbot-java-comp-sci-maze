@@ -1,0 +1,29 @@
+{
+    "name": "microbot java comp sci maze",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "servo": "*",
+        "radio-broadcast": "*",
+        "motobit": "github:sparkfun/pxt-moto-bit#v0.0.4",
+        "cyberbot": "github:parallaxinc/cyberbot_makecode#v1.2.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "8.0.21",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
